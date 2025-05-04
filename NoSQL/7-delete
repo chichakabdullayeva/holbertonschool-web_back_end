@@ -1,0 +1,4 @@
+// Deleting Holberton from Universe
+db.school.deleteMany(
+	{ name:"Holberton school" }
+)
